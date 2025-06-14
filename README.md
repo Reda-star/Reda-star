@@ -14,13 +14,13 @@
 <br clear="both">
 
 <div align="left">
-  <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="180" />
+  <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="190" />
 
   <p>
     🌱 Learning MCP to deepen backend knowledge<br><br>
     📫 Reach me at: belouchreda@gmail.com<br><br>
     ✨ Passionate about crafting clean UIs with React & Tailwind.<br><br>
-    🚀 Constantly exploring ways to blend performance in dev projects.<br><br>
+    🚀 Performance-focused development in dev projects.<br><br>
     🧩 I believe in writing scalable and maintainable code.<br>
   </p>
 </div>
