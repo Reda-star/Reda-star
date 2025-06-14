@@ -21,7 +21,7 @@
     📫 Reach me at: belouchreda@gmail.com<br><br>
     ✨ Passionate about crafting clean UIs with React & Tailwind.<br><br>
     🚀 Performance-focused development in dev projects.<br><br>
-    🧩 I believe in writing scalable and maintainable code.<br>
+    🧩 I believe in writing scalable and maintainable code.<br><br>
     ♾️ Likes to learn new techs.<br>
   </p>
 </div>
