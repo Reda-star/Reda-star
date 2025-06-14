@@ -1,6 +1,6 @@
 <!-- 🔝 Banner image at the top -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff" />
+  <img src="redabelouch-githubheader.png" />
 </p>
 
 <h1 align="center">Hi 👋! My name is Reda Belouch</h1>
