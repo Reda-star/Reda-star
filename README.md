@@ -15,19 +15,18 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
   <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🌱 I’m currently learning MCP (Model Context Protocol) to expand my backend architecture knowledge</li><br>
-    <li>📫 How to reach me: belouchreda@gmail.com</li><br>
+    <li>🌱 Currently learning MCP (Model Context Protocol)</li><br>
+    <li>📫 Reach me at: belouchreda@gmail.com</li><br>
     <li>⚡ Highlights:</li>
     <ul>
-      <li>• Passionate about crafting clean, responsive UIs with React & Tailwind.</li>
-      <li>• Constantly exploring ways to blend performance and aesthetics in full-stack projects.</li>
-      <li>• I believe in writing scalable, maintainable code that speaks for itself.</li>
+      <li>• Love building clean UIs with React & Tailwind</li>
+      <li>• Focused on performance & UX</li>
+      <li>• Write scalable, maintainable code</li>
     </ul>
   </ul>
 
-  <img height="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
+  <img height="150" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
 </div>
-
 ###
 
 <h3 align="center">❇️ Languages and Tools:</h3>
