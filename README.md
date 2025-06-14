@@ -13,23 +13,20 @@
 
 <br clear="both">
 
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        🌱 I’m currently learning MCP (Model Context Protocol) to expand my backend architecture knowledge<br><br>
-        📫 How to reach me: belouchreda@gmail.com<br><br>
-        ⚡ Highlights:<br><br>
-        * Passionate about crafting clean, responsive UIs with React & Tailwind.<br><br>
-        * Constantly exploring ways to blend performance and aesthetics in full-stack projects.<br><br>
-        * I believe in writing scalable, maintainable code that speaks for itself.
-      </p>
-    </td>
-    <td>
-      <img height="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>🌱 I’m currently learning MCP (Model Context Protocol) to expand my backend architecture knowledge</li><br>
+    <li>📫 How to reach me: belouchreda@gmail.com</li><br>
+    <li>⚡ Highlights:</li>
+    <ul>
+      <li>• Passionate about crafting clean, responsive UIs with React & Tailwind.</li>
+      <li>• Constantly exploring ways to blend performance and aesthetics in full-stack projects.</li>
+      <li>• I believe in writing scalable, maintainable code that speaks for itself.</li>
+    </ul>
+  </ul>
+
+  <img height="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
+</div>
 
 ###
 
