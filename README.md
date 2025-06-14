@@ -1,27 +1,31 @@
+<!-- 🔝 Banner image at the top -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Reda Belouch | Full Stack Developer" width="100%" />
 </p>
 
-<!-- Side-by-side layout using HTML table -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<!-- 👥 Flex layout with list on left and image on right -->
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-### 👋 Hello, I’m Reda Belouch
+  <!-- 📝 Text section -->
+  <div align="left">
 
-- 💻 Full Stack Developer  
-- 🌱 Currently diving into **Model Context Protocol (MCP)**  
-- ⚙️ Focused on clean, scalable, and maintainable code  
-- 🎯 Passionate about sleek UI with React & Tailwind  
-- 📫 Reach me at **belouchreda@gmail.com**  
-- 🚀 Open to collaborations and freelance work
+  ### 👋 Hello, I’m Reda Belouch
 
-  </td>
-  <td valign="top" align="center" width="40%">
-    <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Reda Belouch Avatar" width="250px" />
-  </td>
-  </tr>
-</table>
+  - 💻 Full Stack Developer  
+  - 🌱 Currently diving into **Model Context Protocol (MCP)**  
+  - ⚙️ Focused on clean, scalable, and maintainable code  
+  - 🎯 Passionate about sleek UI with React & Tailwind  
+  - 📫 Reach me at **belouchreda@gmail.com**  
+  - 🚀 Open to collaborations and freelance work  
+
+  </div>
+
+  <!-- 🖼️ Image section -->
+  <div>
+    <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" alt="Developer Animation" width="300px" />
+  </div>
+
+</div>
 
 ###
 
