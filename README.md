@@ -1,31 +1,35 @@
 <!-- 🔝 Banner image at the top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Reda Belouch | Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- 👥 Flex layout with list on left and image on right -->
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<h1 align="center">Hi 👋! My name is Reda Belouch</h1>
 
-  <!-- 📝 Text section -->
-  <div align="left">
+###
 
-  ### 👋 Hello, I’m Reda Belouch
+<h3 align="center">🖥️ A passionate Full Stack developer</h3>
 
-  - 💻 Full Stack Developer  
-  - 🌱 Currently diving into **Model Context Protocol (MCP)**  
-  - ⚙️ Focused on clean, scalable, and maintainable code  
-  - 🎯 Passionate about sleek UI with React & Tailwind  
-  - 📫 Reach me at **belouchreda@gmail.com**  
-  - 🚀 Open to collaborations and freelance work  
+###
 
-  </div>
+<br clear="both">
 
-  <!-- 🖼️ Image section -->
-  <div>
-    <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" alt="Developer Animation" width="300px" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        🌱 I’m currently learning MCP (Model Context Protocol) to expand my backend architecture knowledge<br><br>
+        📫 How to reach me: belouchreda@gmail.com<br><br>
+        ⚡ Highlights:<br><br>
+        * Passionate about crafting clean, responsive UIs with React & Tailwind.<br><br>
+        * Constantly exploring ways to blend performance and aesthetics in full-stack projects.<br><br>
+        * I believe in writing scalable, maintainable code that speaks for itself.
+      </p>
+    </td>
+    <td>
+      <img height="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
+    </td>
+  </tr>
+</table>
 
 ###
 
