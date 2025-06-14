@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="left">
-  <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="180" />
+  <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="200" />
 
   <p>
     🌱 Learning MCP to deepen backend knowledge<br><br>
@@ -25,8 +25,7 @@
   </p>
 </div>
 <br>
-<br>
-<br>
+
 <h3 align="center">❇️ Languages and Tools:</h3>
 
 ###
