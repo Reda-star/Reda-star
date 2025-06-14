@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋! My name is Reda Belouch</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Reda Belouch | Full Stack Developer" width="100%" />
+</p>
 
-###
+<!-- Side-by-side layout using HTML table -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-<h3 align="center">🖥️ A passionate Full Stack developer</h3>
+### 👋 Hello, I’m Reda Belouch
 
-###
+- 💻 Full Stack Developer  
+- 🌱 Currently diving into **Model Context Protocol (MCP)**  
+- ⚙️ Focused on clean, scalable, and maintainable code  
+- 🎯 Passionate about sleek UI with React & Tailwind  
+- 📫 Reach me at **belouchreda@gmail.com**  
+- 🚀 Open to collaborations and freelance work
 
-<br clear="both">
-
-<p align="left">🌱 I’m currently learning MCP (Model Context Protocol) to expand my backend architecture knowledge<br><br>📫 How to reach me: belouchreda@gmail.com<br><br>⚡ Highlights:<br><br>* Passionate about crafting clean, responsive UIs with React & Tailwind.<br><br> * Constantly exploring ways to blend performance and aesthetics in full-stack projects.<br><br>* I believe in writing scalable, maintainable code that speaks for itself.</p>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png"  />
-</div>
+  </td>
+  <td valign="top" align="center" width="40%">
+    <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Reda Belouch Avatar" width="250px" />
+  </td>
+  </tr>
+</table>
 
 ###
 
