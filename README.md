@@ -16,16 +16,17 @@
 <div align="left">
   <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="220" />
 
-   <p>
-    🌱 Learning MCP to deepen backend knowledge<br><br>
-    📫 Reach me at: belouchreda@gmail.com<br><br>
+  <p>
+    🌱 Learning MCP to deepen backend knowledge<br>
+    📫 Reach me at: belouchreda@gmail.com<br>
     ⚡ Highlights:
-    <ul>
-      <li>✨ Clean UIs with React & Tailwind</li>
-      <li>🚀 Performance-focused development</li>
-      <li>🧩 Writing maintainable, scalable code</li>
-    </ul>
   </p>
+
+  <ul style="list-style-type: none; padding-left: 0; margin-top: 8px; line-height: 1.4;">
+    <li>✨ Clean UIs with React & Tailwind</li>
+    <li>🚀 Performance-focused development</li>
+    <li>🧩 Writing maintainable, scalable code</li>
+  </ul>
 </div>
 
 <h3 align="center">❇️ Languages and Tools:</h3>
