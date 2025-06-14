@@ -14,7 +14,7 @@
 <br clear="both">
 
 <div align="left">
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2EzcmF6d3FqeWs2OHlvYXF6eXlzcGk2bmlyM3ozYWk5d2x1eXZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" height="280" />
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2EzcmF6d3FqeWs2OHlvYXF6eXlzcGk2bmlyM3ozYWk5d2x1eXZ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" height="260" />
 
   <p>
     🌱 Learning MCP to deepen backend knowledge<br><br>
