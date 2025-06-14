@@ -13,19 +13,17 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🌱 Currently learning MCP (Model Context Protocol)</li><br>
-    <li>📫 Reach me at: belouchreda@gmail.com</li><br>
-    <li>⚡ Highlights:</li>
-    <ul>
-      <li>• Love building clean UIs with React & Tailwind</li>
-      <li>• Focused on performance & UX</li>
-      <li>• Write scalable, maintainable code</li>
-    </ul>
-  </ul>
+<div align="left">
+  <img align="right" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" height="120" />
 
-  <img height="150" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png" />
+  <p>
+    🌱 Learning MCP to deepen backend knowledge<br><br>
+    📫 Reach me at: belouchreda@gmail.com<br><br>
+    ⚡ Highlights:<br>
+    • Clean UIs with React & Tailwind<br>
+    • Performance-focused development<br>
+    • Writing maintainable, scalable code
+  </p>
 </div>
 ###
 
