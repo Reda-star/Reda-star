@@ -19,14 +19,10 @@
   <p>
     🌱 Learning MCP to deepen backend knowledge<br>
     📫 Reach me at: belouchreda@gmail.com<br>
-    ⚡ Highlights:
+    ✨ Clean UIs with React & Tailwind
+    🚀 Performance-focused development
+    🧩 Writing maintainable, scalable code
   </p>
-
-  <ul style="list-style-type: none; padding-left: 0; margin-top: 8px; line-height: 1.4;">
-    <li>✨ Clean UIs with React & Tailwind</li>
-    <li>🚀 Performance-focused development</li>
-    <li>🧩 Writing maintainable, scalable code</li>
-  </ul>
 </div>
 
 <h3 align="center">❇️ Languages and Tools:</h3>
