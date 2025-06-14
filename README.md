@@ -19,9 +19,9 @@
   <p>
     🌱 Learning MCP to deepen backend knowledge<br>
     📫 Reach me at: belouchreda@gmail.com<br>
-    ✨ Passionate about crafting clean, responsive UIs with React & Tailwind.
-    🚀 Constantly exploring ways to blend performance and aesthetics in full-stack projects.
-    🧩 I believe in writing scalable, maintainable code that speaks for itself.
+    ✨ Passionate about crafting clean, responsive UIs with React & Tailwind.<br>
+    🚀 Constantly exploring ways to blend performance and aesthetics in full-stack projects.<br>
+    🧩 I believe in writing scalable, maintainable code that speaks for itself.<br>
   </p>
 </div>
 
