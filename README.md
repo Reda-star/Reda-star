@@ -1,6 +1,6 @@
 <!-- 🔝 Banner image at the top -->
 <p align="center">
-  <img src="redabelouch-githubheader.png" height="280" />
+  <img src="github_header.png" />
 </p>
 
 <h1 align="center">Hi 👋! My name is Reda Belouch</h1>
